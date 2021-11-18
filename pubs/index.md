@@ -3,10 +3,10 @@ layout: default
 ---
 1.  **D. Keküllüoglu**, W. Magdy, and K. Vaniea. From an Authentication Question to a Public Social Event: Characterizing Birthday Sharing on Twitter.
 In Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 2022.
-1.  **D. Keküllüoglu**, W. Magdy, and K. Vaniea. Analysing Privacy Leakage of Life Events on Twitter.
-In 12th ACM Conference on Web Science (WebSci), pp. 287-294, 2020.
 1.  N. Meng, **D. Keküllüoğlu**, K. Vaniea. Owning and Sharing: Privacy Perceptions of Smart Speaker Users. 
 In Proceedings of the ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW), 2021.
+1.  **D. Keküllüoglu**, W. Magdy, and K. Vaniea. Analysing Privacy Leakage of Life Events on Twitter.
+In 12th ACM Conference on Web Science (WebSci), pp. 287-294, 2020.
 1.  **D. Keküllüoglu**, N. Kökciyan, and P. Yolum. Preserving Privacy as Social Responsibility
 in Online Social Networks. Transactions on Internet Technology (TOIT).
 ACM, 2018.
