@@ -4,7 +4,7 @@ layout: default
 
 I am last year PhD student at School of Informatics, University of Edinburgh in Scotland, UK (Supervised by Walid Magdy and Kami Vaniea). My research interests are privacy on social media, computational social science, human computer interaction, natural language processing. My current focus is on privacy on social media, especially unintended disclosures and user understanding of privacy controls. [Here](https://dl.acm.org/doi/abs/10.1145/3394231.3397919) is our latest published paper analysing life event disclosures by friends on Twitter. I have a [blog](https://medium.com/@dilarakkl) where I relay my experiences doing PhD in Edinburgh, written in Turkish.
 
-I visited Max Planck Institute for Security and Privacy as a research fellow summer of '21 (Supervised by Yasemin Acar). We investigated the security and privacy perceptions of Turkish startup developers.
+I visited Max Planck Institute for Security and Privacy as a research fellow in the summer of '21 (Supervised by Yasemin Acar). We investigated the security and privacy perceptions of Turkish startup developers.
 
 
 I received my undergradute degree in 2015, masters degree in 2017 from Boğaziçi University in Turkey (Supervised by Pınar Yolum). My master thesis was about preserving privacy in online social networks using multi-agents systems. The [paper](http://dl.acm.org/citation.cfm?id=2970035)
