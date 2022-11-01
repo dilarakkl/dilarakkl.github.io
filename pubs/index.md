@@ -25,5 +25,8 @@ Constraints in Online Social Networks (Demo Paper). European Conference on
 Artificial Intelligence (ECAI), 2016.
 
 ### Thesis
-* D. Keküllüoğlu. Negotiation Strategies for Privacy in Online Social Networks (Master's Thesis).
+* D. Keküllüoğlu. **Analysing Privacy in Online Social Media** (PhD Thesis).
+University of Edinburgh, 2022.
+
+* D. Keküllüoğlu. **Negotiation Strategies for Privacy in Online Social Networks** (Master's Thesis).
 Boğaziçi University, 2017.
