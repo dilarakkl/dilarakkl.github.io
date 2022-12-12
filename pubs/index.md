@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
+1.  **D. Keküllüoglu**, K. Vaniea, M.K. Wolters, and W. Magdy. Twitter has a Binary Privacy Setting, are Users Aware of How It Works?
+In Proceedings of the ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW), 2023.
+1.  **D. Keküllüoglu** and Y. Acar "We are a startup to the core": A qualitative interview study on the security and privacy development practices in Turkish software startups. In Proceedings of the IEEE Symposium on Security and Privacy (IEEESP), 2023.
 1.  **D. Keküllüoglu**, K. Vaniea, and W. Magdy. Understanding Privacy Switching Behaviour on Twitter.
-Proceedings of the CHI conference on Human Factors in Computing Systems (CHI), 2022.
+In Proceedings of the CHI conference on Human Factors in Computing Systems (CHI), 2022.
 1.  **D. Keküllüoglu**, W. Magdy, and K. Vaniea. From an Authentication Question to a Public Social Event: Characterizing Birthday Sharing on Twitter.
 In Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 2022.
 1.  N. Meng, **D. Keküllüoğlu**, K. Vaniea. Owning and Sharing: Privacy Perceptions of Smart Speaker Users. 
