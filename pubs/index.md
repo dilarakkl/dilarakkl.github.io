@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+1.  **D. Keküllüoglu**, L. Hatherall, N. Sethi, T. Vierkant, S. Vallor, N. Kokciyan, and M. Rovatsos. Answerability by Design in Sociotechnical Systems. Workshop on Supporting User Engagement in Testing, Auditing, and Contesting AI (CSCW User AI Auditing), 2023.
+1.  L. Hatherall, **D. Keküllüoglu**, N. Kokciyan, M. Rovatsos, N. Sethi, T. Vierkant, and S. Vallor. Responsible Agency Through Answerability: Cultivating the Moral Ecology of Trustworthy Autonomous Systems (Poster Paper). Proceedings of the First International Symposium on Trustworthy Autonomous Systems (TAS), 2023.
 1.  **D. Keküllüoglu**, K. Vaniea, M.K. Wolters, and W. Magdy. Twitter has a Binary Privacy Setting, are Users Aware of How It Works?
 In Proceedings of the ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW), 2023.
 1.  **D. Keküllüoglu** and Y. Acar "We are a startup to the core": A qualitative interview study on the security and privacy development practices in Turkish software startups. In Proceedings of the IEEE Symposium on Security and Privacy (IEEESP), 2023.
