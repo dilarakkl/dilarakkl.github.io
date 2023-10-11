@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+**I am in the job market for Fall'24 for tenure-track Assistant Professor positions and industry research ones. My research interests include human-computer interaction, usable privacy, responsible artificial intelligence, and computational social science. I am particularly interested in the human aspects of privacy in online spaces. My work is interdisciplinary and I have experience conducting quantitative and qualitative studies. I published in top conferences such as ICWSM, CSCW, WebSci, CHI, and IEEESP, as well as journals like ACM Transactions on Internet Technology (TOIT). You can access my full academic CV [here](../assets/Dilara_Kekulluoglu_acv.pdf).**
 
 Hi! I am Dilara, a Research Associate (Postdoc) at School of Informatics, University of Edinburgh in Scotland, UK. I am currently working on a Responsible AI project where we aim to make socio-technical organizations answerable for the automated actions they take where these actions can harm people. You can find more information in our launch [blog](https://www.tas.ac.uk/making-systems-answer/). My research interests are responsible AI, privacy on social media, human computer interaction, computational social science.
 
