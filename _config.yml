@@ -21,10 +21,9 @@ repository               : "dilarakkl/dilarakkl.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "images/dilara_profile.jpg"
   name             : "Dilara Keküllüoğlu"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example 
   bio              : "Researcher interested in Responsible AI, NLP, and Human-Computer Interaction"
   location         : "İstanbul"
   employer         : "Sabancı University"
