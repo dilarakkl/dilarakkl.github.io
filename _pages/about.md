@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-    
+---
 
 Hi! I am Dilara, an Assistant Professor at Sabancı University in İstanbul, Türkiye. I am also a visiting researcher at the University of Edinburgh in Scotland, UK. My research interests are responsible AI, usable privacy, NLP+CSS, and human computer interaction. Previously, I was a Research Associate (Postdoc) at the School of Informatics, University of Edinburgh. I am currently working on a Responsible AI project where we aim to make socio-technical organizations answerable for the automated actions they take where these actions can harm people. You can find more information in our launch [blog](https://www.tas.ac.uk/making-systems-answer/).
 
