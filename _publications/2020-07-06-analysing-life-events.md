@@ -7,7 +7,6 @@ authors: 'Dilara Keküllüoğlu, Walid Magdy, and Kami Vaniea'
 excerpt: ''
 date: 2020-07-06
 venue: 'Proceedings of the 12th ACM Conference on Web Science'
-slidesurl: ''
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3394231.3397919'
 citation: 'Keküllüoglu, Dilara, Walid Magdy, and Kami Vaniea. &quot;Analysing privacy leakage of life events on twitter.&quot; <i>Proceedings of the 12th ACM Conference on Web Science</i>. 2020.'
 ---
