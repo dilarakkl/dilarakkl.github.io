@@ -2,7 +2,7 @@
 title: "Owning and sharing: Privacy perceptions of smart speaker users"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-04-22-owning-sharing.md
+permalink: /publication/2021-04-22-owning-sharing
 excerpt: ''
 date: 2021-04-22
 venue: 'Proceedings of the ACM on Human-Computer Interaction'
