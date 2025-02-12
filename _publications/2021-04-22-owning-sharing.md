@@ -1,7 +1,6 @@
 ---
 title: "Owning and sharing: Privacy perceptions of smart speaker users"
 collection: publications
-category: manuscripts
 permalink: /publication/2021-04-22-owning-sharing
 authors: 'Nicole Meng, Dilara Keküllüoğlu, and Kami Vaniea'
 date: 2021-04-22
