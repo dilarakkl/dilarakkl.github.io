@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dilara Keküllüoğlu's Personal Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dilara Keküllüoğlu"
 description              : &description "Personal Website of Dilara"
@@ -24,7 +24,7 @@ author:
   avatar           : "dilara_profile_square.jpg"
   name             : "Dilara Keküllüoğlu"
   pronouns         : # example 
-  bio              : "Researcher interested in Responsible AI, Privacy, NLP, and Human-Computer Interaction"
+  bio              : "Researcher interested in Responsible AI, Privacy, Natural Language Processing, Human-Computer Interaction, and Computational Social Science"
   location         : "İstanbul"
   employer         : "Sabancı University"
   uri              : # URL
