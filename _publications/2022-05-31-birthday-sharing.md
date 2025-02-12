@@ -7,7 +7,6 @@ authors: 'Dilara Keküllüoğlu, Walid Magdy, and Kami Vaniea'
 excerpt: ''
 date: 2022-05-31
 venue: 'Proceedings of the International AAAI Conference on Web and Social Media'
-slidesurl: ''
 paperurl: 'https://ojs.aaai.org/index.php/ICWSM/article/view/19309/19081'
 citation: 'Keküllüoğlu, Dilara, Walid Magdy, and Kami Vaniea. &quot;From an authentication question to a public social event: Characterizing birthday sharing on Twitter.&quot; <i>Proceedings of the International AAAI Conference on Web and Social Media</i>. Vol. 16. 2022.'
 ---
