@@ -3,6 +3,7 @@ title: "Twitter has a Binary Privacy Setting, are Users Aware of How It Works?"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-04-23-twitter-binary-settings
+authors: 'Dilara Keküllüoğlu, Kami Vaniea, Maria K. Wolters, and Walid Magdy'
 excerpt: ''
 date: 2023-04-23
 venue: 'Proceedings of the ACM on Human-Computer Interaction'
