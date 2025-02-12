@@ -7,7 +7,6 @@ authors: 'Dilara Keküllüoğlu and Yasemin Acar'
 excerpt: ''
 date: 2023-05-21
 venue: '2023 IEEE Symposium on Security and Privacy'
-slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10179339'
 citation: 'Keküllüoğlu, Dilara, and Yasemin Acar.&quot;&quot; We are a startup to the core&quot;: A qualitative interview study on the security and privacy development practices in Turkish software startups.&quot; <i>2023 IEEE Symposium on Security and Privacy (SP)</i>. IEEE, 2023.'
 ---
