@@ -7,7 +7,6 @@ authors: 'Dilara Keküllüoğlu, Nadin Kökciyan, and Pınar Yolum'
 excerpt: ''
 date: 2018-04-24
 venue: 'ACM Transactions on Internet Technology (TOIT)'
-slidesurl: ''
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3158373'
 citation: 'Kekulluoglu, Dilara, Nadin Kokciyan, and Pinar Yolum. &quot;Preserving privacy as social responsibility in online social networks.&quot; <i>ACM Transactions on Internet Technology (TOIT)</i> 18.4 (2018): 1-22.'
 ---
