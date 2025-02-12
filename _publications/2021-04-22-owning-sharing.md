@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-04-22-owning-sharing
 excerpt: 'Authors: Nicole Meng, Dilara Keküllüoğlu, and Kami Vaniea'
+authors: 'Nicole Meng, Dilara Keküllüoğlu, and Kami Vaniea'
 date: 2021-04-22
 venue: 'Proceedings of the ACM on Human-Computer Interaction'
 slidesurl: ''
