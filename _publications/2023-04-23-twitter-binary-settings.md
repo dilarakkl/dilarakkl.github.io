@@ -7,7 +7,6 @@ authors: 'Dilara Keküllüoğlu, Kami Vaniea, Maria K. Wolters, and Walid Magdy'
 excerpt: ''
 date: 2023-04-23
 venue: 'Proceedings of the ACM on Human-Computer Interaction'
-slidesurl: ''
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3579537'
 citation: 'Keküllüoglu, Dilara, et al. &quot;Twitter has a binary privacy setting, are users aware of how it works?.&quot; <i>Proceedings of the ACM on Human-Computer Interaction</i> 7.CSCW1 (2023): 1-18.'
 ---
