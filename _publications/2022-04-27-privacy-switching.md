@@ -7,7 +7,6 @@ authors: 'Dilara Keküllüoğlu, Kami Vaniea, and Walid Magdy'
 excerpt: ''
 date: 2022-04-27
 venue: 'Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems'
-slidesurl: ''
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3491102.3517675'
 citation: 'Kekulluoglu, Dilara, Kami Vaniea, and Walid Magdy. &quot;Understanding privacy switching behaviour on Twitter.&quot; <i>Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems</i>. 2022.'
 ---
