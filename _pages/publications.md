@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
- ### Full papers
+ <h3> Full papers </h3>
 
 {% include base_path %}
 {% for post in site.publications reversed %}
@@ -24,11 +24,11 @@ author_profile: true
 
 * **D. Keküllüoglu**, W. Magdy, and K. Vaniea. Happy 18th Birthday! Measuring Birth Date Disclosure on Twitter (Extended Abstract). 6th International Conference on Computational Social Science (IC2S2), 2020.
 
-**D. Keküllüoglu**, N. Kökciyan, and P. Yolum. Strategies for Privacy Negotiation in Online Social Networks. Proceedings of the 1st International Workshop on AI for Privacy and Security. ACM, 2016.
+* **D. Keküllüoglu**, N. Kökciyan, and P. Yolum. Strategies for Privacy Negotiation in Online Social Networks. Proceedings of the 1st International Workshop on AI for Privacy and Security. ACM, 2016.
 
-**D. Keküllüoglu**, N. Kökciyan, and P. Yolum. Strategies for Privacy Negotiation in Online Social Networks (Short Paper). European Conference on Artificial Intelligence (ECAI), pp. 1608-1609, 2016.
+* **D. Keküllüoglu**, N. Kökciyan, and P. Yolum. Strategies for Privacy Negotiation in Online Social Networks (Short Paper). European Conference on Artificial Intelligence (ECAI), pp. 1608-1609, 2016.
 
-**D. Keküllüoglu**, N. Kökciyan, and P. Yolum. A Tool for Negotiating Privacy Constraints in Online Social Networks (Demo Paper). European Conference on Artificial Intelligence (ECAI), 2016.
+* **D. Keküllüoglu**, N. Kökciyan, and P. Yolum. A Tool for Negotiating Privacy Constraints in Online Social Networks (Demo Paper). European Conference on Artificial Intelligence (ECAI), 2016.
 
 ### Thesis
 * D. Keküllüoğlu. **Analysing Privacy in Online Social Media** (PhD Thesis).
