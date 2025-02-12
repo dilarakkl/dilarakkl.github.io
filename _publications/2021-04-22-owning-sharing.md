@@ -7,7 +7,6 @@ authors: 'Nicole Meng, Dilara Keküllüoğlu, and Kami Vaniea'
 excerpt: ''
 date: 2021-04-22
 venue: 'Proceedings of the ACM on Human-Computer Interaction'
-slidesurl: ''
 paperurl: 'https://groups.inf.ed.ac.uk/tulips/papers/meng2021cscw.pdf'
 citation: 'Meng, Nicole, Dilara Keküllüoğlu, and Kami Vaniea.  &quot;Owning and sharing: Privacy perceptions of smart speaker users. &quot; <i>Proceedings of the ACM on Human-Computer Interaction</i> 5.CSCW1 (2021): 1-29.'
 ---
