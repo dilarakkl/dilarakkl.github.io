@@ -17,13 +17,13 @@ author_profile: true
 ### Short papers, workshop papers, posters, and demos
 
 * **D. Keküllüoglu**, M. Rovatsos, and N. Kokciyan. Answerable sociotechnical systems. 27th European Conference on Artificial Intelligence (ECAI '24). IOS Press, 2024
-  
-* N. Meng, **D. Keküllüoglu**, and K. Vaniea. Owning and Sharing: Privacy Perceptions of Smart Speaker Users (Poster Paper). Symposium on Usable Privacy and Security (SOUPS'22). 2022.
 
 * **D. Keküllüoglu**, L. Hatherall, N. Sethi, T. Vierkant, S. Vallor, N. Kokciyan, and M. Rovatsos. Answerability by Design in Sociotechnical Systems. Workshop on Supporting User Engagement in Testing, Auditing, and Contesting AI (CSCW User AI Auditing), 2023.
 
 * L. Hatherall, **D. Keküllüoglu**, N. Kokciyan, M. Rovatsos, N. Sethi, T. Vierkant, and S. Vallor. Responsible Agency Through Answerability: Cultivating the Moral Ecology of Trustworthy Autonomous Systems (Poster Paper). Proceedings of the First International Symposium on Trustworthy Autonomous Systems (TAS), 2023.
 
+* N. Meng, **D. Keküllüoglu**, and K. Vaniea. Owning and Sharing: Privacy Perceptions of Smart Speaker Users (Poster Paper). Symposium on Usable Privacy and Security (SOUPS'22). 2022.
+  
 * **D. Keküllüoglu**, W. Magdy, and K. Vaniea. Happy 18th Birthday! Measuring Birth Date Disclosure on Twitter (Extended Abstract). 6th International Conference on Computational Social Science (IC2S2), 2020.
 
 * **D. Keküllüoglu**, N. Kökciyan, and P. Yolum. Strategies for Privacy Negotiation in Online Social Networks. Proceedings of the 1st International Workshop on AI for Privacy and Security. ACM, 2016.
