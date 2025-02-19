@@ -1,7 +1,7 @@
 ---
 title: "DSA 440/CS 540 Data and AI Ethics"
 collection: teaching
-type: "undergrad/grad course"
+type: "Double-coded course"
 permalink: /teaching/2025-spring-teaching
 venue: "Sabanci University, Computer Science and Engineering"
 date: 2025-02-05
