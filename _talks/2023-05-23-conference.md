@@ -8,5 +8,5 @@ date: 2023-05-23
 location: "San Francisco, CA, USA"
 ---
 
-The conference presentation for the paper resulting from my research visit to Max Planck Institue for Security and Privacy. The presentation is <a href="https://www.youtube.com/watch?v=jDANx74gSkU&pp=ygUbZGlsYXJhIGtla3VsbHVvZ2x1IMO2enllZ2lu" target="_blank">here.</a>
+The conference presentation for the paper resulting from my research visit to Max Planck Institue for Security and Privacy. The presentation is [here](https://www.youtube.com/watch?v=jDANx74gSkU&pp=ygUbZGlsYXJhIGtla3VsbHVvZ2x1IMO2enllZ2lu).
 
