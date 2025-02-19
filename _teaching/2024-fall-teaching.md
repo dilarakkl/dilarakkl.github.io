@@ -1,8 +1,8 @@
 ---
 title: "CS445 Natural Language Processing"
 collection: teaching
-type: "undergrad course"
-permalink: /teaching/2024-fall-teaching.md
+type: "Undergrad course"
+permalink: /teaching/2024-fall-teaching
 venue: "Sabanci University, Computer Science and Engineering Department"
 date: 2024-09-23
 location: "İstanbul, Türkiye"
