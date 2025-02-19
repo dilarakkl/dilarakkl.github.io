@@ -12,7 +12,7 @@ Previously, I was a Research Associate (Postdoc) at the School of Informatics, U
 News
 ======
 
-* I am hiring! We are looking for a postdoc and a PhD student to join our group to work on a [TÜBİTAK](https://tubitak.gov.tr/en)-funded project. More details on here.
+* I am hiring! We are looking for a postdoc and a PhD student to join our group to work on a [TÜBİTAK](https://tubitak.gov.tr/en)-funded project. More details on [here](https://dilarakkl.github.io/posts/2025-02-19-hiring).
 * I am giving "Data and Artificial Intelligence Ethics" course this Spring. (Spring 2025)
 * I gave "Natural Language Processing" course in Fall 2024.
 * I started working as an Assistant Professor at the Computer Science department, Sabancı University. (September, 2024).
