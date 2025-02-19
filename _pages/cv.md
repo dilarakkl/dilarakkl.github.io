@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my detailed full CV in [here](../files/Dilara_Kekulluoglu_acv.pdf).
+
 Research Interests
 ======
 My research interests include responsible artificial intelligence, privacy, natural
