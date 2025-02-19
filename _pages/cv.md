@@ -66,4 +66,35 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+**Program Committee**
+
+* 2024 - ECAI, European Conference on Artificial Intelligence.
+* 2022, 2023 - CHI LBW, Computer Human Interaction, Late Breaking Work, AC.
+* 2022, 2023 - CySoc, International Workshop on Cyber Social Threats.
+* 2021 - WebSci, ACM Conference on Web Science.
+
+**Reviewer** 
+
+* 2025 - Online Social Networks and Media
+* 2024 - TOCHI, ACM Transactions on Computer-Human Interaction.
+* 2023 - AAMAS, Autonomous Agents and Multiagent Systems.
+* 2021-24 - CHI, Computer Human Interaction.
+* 2021,2024 - CHI LBW, Computer Human Interaction, Late Breaking Work.
+* 2020, 2021 CSCW, Computer Supported Cooperative Work and Social Computing.
+* 2020 IEEE Internet Computing.
+
+**Student Volunteer**
+
+* 2021 - CHI, Computer Human Interaction, Captain.
+* 2020 - CSCW, Computer Supported Cooperative Work and Social Computing, Captain.
+* 2019 - SOUPS, Symposium On Usable Privacy and Security.
+* 2015 - AAMAS, Autonomous Agents and Multiagent Systems.
+
+**Misc**
+
+* 2022-2023 - Mentor, Postgraduate Mentorship Programme, Association of Turkish Alumni and
+Students in Scotland.
+* 2021-2022 - Coordinator, SMASH Reading Group, University of Edinburgh.
+* 2020 - Guide, inzva Deep Learning Study Group, Natural Language Processing, inzva.
+* 2017 - Mentor, Django Girls Istanbul.
