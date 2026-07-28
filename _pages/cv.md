@@ -27,7 +27,7 @@ Education
 Work experience
 ======
 * 2024.09 - Current, Assistant Professor, Computer Science, Sabancı University, Türkiye.
-* 2024.06 - Current, Visiting Researcher, School of Informatics, University of Edinburgh, UK.
+* 2024.06 - 2025.06, Visiting Researcher, School of Informatics, University of Edinburgh, UK.
 * 2022.06 - 2024.06, Postdoctoral Research Associate, University of Edinburgh, UK.
   * Making Systems Answer: Dialogical Design as a Bridge for Responsibility Gaps in Trustworthy
 Autonomous Systems
@@ -71,15 +71,17 @@ Service and leadership
 
 * 2024 - ECAI, European Conference on Artificial Intelligence.
 * 2022, 2023 - CHI LBW, Computer Human Interaction, Late Breaking Work, AC.
-* 2022, 2023 - CySoc, International Workshop on Cyber Social Threats.
+* 2022, 2023, 2026 - CySoc, International Workshop on Cyber Social Threats.
 * 2021 - WebSci, ACM Conference on Web Science.
 
 **Reviewer** 
 
-* 2025 - Online Social Networks and Media
+* 2026     - ACL ARR, Association for Computational Linguistics
+* 2026    - JRC, Journal of Responsible Computing
+* 2025-26 - Online Social Networks and Media
 * 2024 - TOCHI, ACM Transactions on Computer-Human Interaction.
 * 2023 - AAMAS, Autonomous Agents and Multiagent Systems.
-* 2021-24 - CHI, Computer Human Interaction.
+* 2021-26 - CHI, Computer Human Interaction.
 * 2021,2024 - CHI LBW, Computer Human Interaction, Late Breaking Work.
 * 2020, 2021 CSCW, Computer Supported Cooperative Work and Social Computing.
 * 2020 IEEE Internet Computing.
